@@ -1,6 +1,6 @@
 # Prospero
 
-Welcome to the Prospero issue centre. This github repository is intended to be the home for any bugs, feature requests or comments related to the Prospero toolkit. The actual code for Prospero will remain on Maersk's private SSH server.
+Welcome to the Prospero issue centre. This github repository is intended to be the home for any bugs, feature requests or comments related to the Prospero toolkit. The actual code for Prospero will remain on the private SSH server.
 
 Please find all current and closed issues under the 'Issues' tab. You do not need a github account to view issues, but you will need to create one to leave a comment or create your own issue.
 
